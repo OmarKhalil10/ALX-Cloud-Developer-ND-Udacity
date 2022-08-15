@@ -11,6 +11,7 @@
 
 ## Project Overview
 
+1. S3 Bucket
 ![alt text](https://github.com/OmarKhalil10/ALX-Cloud-Developer-ND-Udacity/blob/main/Deploy%20a%20static%20website%20on%20AWS/project%20walk-through%20images/Bucket.png "Logo Title Text 1")
 
 ## Public url
