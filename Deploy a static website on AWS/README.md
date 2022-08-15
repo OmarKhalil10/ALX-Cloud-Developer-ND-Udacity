@@ -9,4 +9,12 @@
 * /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 * /css - CSS files for the website.
 
+## Project Overview
+
+![alt text]( "Logo Title Text 1")
+
+## Public url
+
+`http://my-aws-website-bucket.s3-website-us-east-1.amazonaws.com`
+
 ## Thanks!
